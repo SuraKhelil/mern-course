@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Sureyya Mern course",
+    "baseUrl": "http://localhost:5000",
+    "mongoUrl":"mongodb+srv://Sureyya:ImhJAWCNaLRUxWLT@cluster0.fqf5i.mongodb.net/app?retryWrites=true&w=majority"
+}
